@@ -8,4 +8,4 @@ scenarios:
     timeout: 500ms
     keepalive: true
     requests:
-    - http://sakshi.com/
+    - http://eenadu.com/
